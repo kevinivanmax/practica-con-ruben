@@ -1,2 +1,6 @@
 helicoptero bimotor
+<<<<<<< HEAD
 prefiero el color azul
+=======
+me gusta de color blanco
+>>>>>>> 09a1da64c75c072fc36aa64378f4c3c7a8f96bb7
